@@ -1,0 +1,18 @@
+<html>
+<body>
+<p>Dear {},</p>
+
+<p>Kindly find below the token which you can use to access the system for your file upload.</p>
+
+<p><b style="background-color: blue;color: white;text-align: center;font-size: 30px;">{}</b></p>
+
+<br><br>
+Kindly note the token expires <b>10 minutes</b> after it is sent.<br><br>
+
+<p>Best regards,<br>
+PDA Datacenter.</p>
+
+<p>---------------------------<br>
+<b>DISCLAIMER:</b> <small>The contents of this email and any attachments are confidential. They are intended for {} only. If you have received this email by mistake, please notify Ignatius Boadi(iboadi@pdaghana.com) immediately and you are herewith notified that the contents are legally privileged and that you do not have permission to disclose the contents to anyone,make copies thereof, retain or distribute or act upon it by any means, electronically, digitally or in print.<small></p>
+</body>
+</html>
