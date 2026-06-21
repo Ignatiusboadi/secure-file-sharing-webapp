@@ -116,14 +116,25 @@ This section describes how to run the application in a local development environ
 
 ### 1. Clone the Repository
 ```bash
+# clone the repository
 git clone https://github.com/your-username/secure-file-sharing-webapp.git
 cd secure-file-sharing-webapp
+
+# create and activate virtual environment
 python -m venv venv
 source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
+
+# install dependencies
 pip install -r requirements.txt
+
+# Open MySQL and run the schema script
 sql_scripts/file_sharing_main.sql
+
+# Create a .env file with necessary credentials. Refer to utils/utils.py. Then run the application
 streamlit run app.py
+
+# Access the application in your browser at
 http://localhost:8501
 ```
 
