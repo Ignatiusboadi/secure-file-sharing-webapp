@@ -114,7 +114,6 @@ This section describes how to run the application in a local development environ
 - MySQL Server
 - Git
 
-### 1. Clone the Repository
 ```bash
 # clone the repository
 git clone https://github.com/your-username/secure-file-sharing-webapp.git
